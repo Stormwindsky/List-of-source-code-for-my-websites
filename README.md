@@ -18,3 +18,7 @@ https://github.com/Stormwindsky/EZcript
 ArtLibre ''no more update for this website 4 now bc i use api of Github so use instaid Stormwindsky.com '':
 
 https://github.com/Stormwindsky/ArtLibre
+
+Ink-Rot Wiki (coming soon)
+
+https://github.com/Stormwindsky/Ink-Rot-Wiki
