@@ -22,3 +22,7 @@ https://github.com/Stormwindsky/ArtLibre
 Ink-Rot Wiki (coming soon)
 
 https://github.com/Stormwindsky/Ink-Rot-Wiki
+
+New Remix Tree:
+
+https://github.com/Stormwindsky/New-Remix-Tree
