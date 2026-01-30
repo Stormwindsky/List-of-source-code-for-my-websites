@@ -26,3 +26,7 @@ https://github.com/Stormwindsky/Ink-Rot-Wiki
 New Remix Tree:
 
 https://github.com/Stormwindsky/New-Remix-Tree
+
+MANIFESTUM PHANTASMA:
+
+https://github.com/Stormwindsky/MANIFESTUM-PHANTASMA
