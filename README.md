@@ -34,3 +34,7 @@ https://github.com/Stormwindsky/MANIFESTUM-PHANTASMA
 THE SASQUATCH TRACKER:
 
 https://github.com/Stormwindsky/THE-SASQUATCH-TRACKER
+
+SB3 Corruptor:
+
+https://github.com/Stormwindsky/SB3-Corruptor
