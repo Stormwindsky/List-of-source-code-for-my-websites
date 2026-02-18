@@ -6,7 +6,7 @@ Stormwindsky.com
 
 https://github.com/Stormwindsky/Stormwindsky-Website
 
-Stormwindsky.uk (4 test 4 now)
+Stormwindsky.uk (my joke website)
 
 https://github.com/Stormwindsky/Stormwindsky-dot-uk-my-other-domain-
 
