@@ -46,3 +46,7 @@ https://github.com/Stormwindsky/ThreeDWorld/
 Forum / Blog Template Website:
 
 https://github.com/Stormwindsky/Forum-Blog-Template
+
+HyModPack Builder:
+
+https://github.com/Stormwindsky/HyModPack-Builder
