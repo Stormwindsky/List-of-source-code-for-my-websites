@@ -10,7 +10,7 @@ Stormwindsky.uk (my joke website)
 
 https://github.com/Stormwindsky/Stormwindsky-dot-uk-my-other-domain-
 
-StormWarp (Main Page only)
+StormWarp (MOVED)
 
 https://github.com/Stormwindsky/StormWarp
 
