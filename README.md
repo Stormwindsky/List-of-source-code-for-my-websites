@@ -14,7 +14,7 @@ StormWarp (Turbowarp (Scratch-Gui Fork of Turbowarp) Fork only):
 
 https://github.com/Stormwindsky/scratch-gui/
 
-StormWarp Launcher (offcial website to download StormWarp)
+StormWarp Launcher (official website to download StormWarp)
 
 https://github.com/Stormwindsky/StormWarp-Launcher-Website
 
