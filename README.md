@@ -10,22 +10,18 @@ Stormwindsky.uk (my joke website)
 
 https://github.com/Stormwindsky/Stormwindsky-dot-uk-my-other-domain-
 
-StormWarp (MOVED)
-
-https://github.com/Stormwindsky/StormWarp
-
 StormWarp (Turbowarp (Scratch-Gui Fork of Turbowarp) Fork only):
 
 https://github.com/Stormwindsky/scratch-gui/
+
+StormWarp Launcher (offcial website to download StormWarp)
+
+https://github.com/Stormwindsky/StormWarp-Launcher-Website
 
 
 Ezcript ''Scratch / Turbowarp Like'':
 
 https://github.com/Stormwindsky/EZcript
-
-OeuvreLibre ''no more update for this website 4 now bc i use api of Github so use instaid Stormwindsky.com '':
-
-https://github.com/Stormwindsky/OeuvreLibre
 
 Ink-Rot Wiki (coming soon)
 
