@@ -6,7 +6,7 @@ Stormwindsky.com
 
 https://github.com/Stormwindsky/Stormwindsky-Website
 
-Stormwindsky.uk (my joke website)
+Stormwindsky.uk (''my joke website''):
 
 https://github.com/Stormwindsky/Stormwindsky-dot-uk-my-other-domain-
 
@@ -14,7 +14,7 @@ StormWarp (Turbowarp (Scratch-Gui Fork of Turbowarp) Fork only):
 
 https://github.com/Stormwindsky/scratch-gui/
 
-StormWarp Launcher (official website to download StormWarp)
+StormWarp Launcher (official website to download StormWarp):
 
 https://github.com/Stormwindsky/StormWarp-Launcher-Website
 
